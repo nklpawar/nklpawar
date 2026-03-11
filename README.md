@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (The Broker)](https://github.com/nklpawar/incident-response-broker-attack)**
+- **[Threat Hunt (The Broker)](https://github.com/nklpawar/incident-response-broker-attack)**
 
 ---
 
