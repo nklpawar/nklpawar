@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=IT%20and%20Cybersecurity%20Project%20Portfolio&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Threat%20Hunter%20%7C%20Vulnerability%20Management%20%7C%20Security%20Operations&descAlignY=58&descSize=16&descColor=8b949e" />
+</div>
 
-<!--
-**nklpawar/nklpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Feel free to check them out!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/YOUR-USERNAME/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/YOUR-USERNAME/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (The Broker)](https://github.com/nklpawar/incident-response-broker-attack)**
+
+---
+
+## 🤳 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-pawar-535710178/)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+</div>
