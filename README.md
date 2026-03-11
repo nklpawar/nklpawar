@@ -6,14 +6,17 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ---
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/nklpawar/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/YOUR-USERNAME/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunt (The Broker)](https://github.com/nklpawar/incident-response-broker-attack)**
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/nklpawar/vulnerability-management-program)**
+
+
 
 ---
 
