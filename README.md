@@ -17,7 +17,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/nklpawar/vulnerability-management-program)**
 
+## 🛡️ Security Hardening & Compliance
 
+- **[Windows 11 STIG Remediation Scripts](https://github.com/nklpawar/windows11-stig-remediation-scripts)**  
 
 ---
 
